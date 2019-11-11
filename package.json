@@ -40,7 +40,7 @@
     "release-major": "xyz --repo git@github.com:paldepind/snabbdom.git --increment major",
     "release-minor": "xyz --repo git@github.com:paldepind/snabbdom.git --increment minor",
     "release-patch": "xyz --repo git@github.com:paldepind/snabbdom.git --increment patch",
-    "prepare": "npm run build"
+    "prepare": "npm run compile"
   },
   "repository": {
     "type": "git",
